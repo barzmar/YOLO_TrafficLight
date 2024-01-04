@@ -4,4 +4,4 @@ Traffic Light detection network based on YOLO trained on custom database. The ma
 
 Unfortunately Non Disclosure Agreement limits what I can show.
 
-Final Grade for the project was 1.0 in erman scoring system
+Final Grade for the project was 1.0 in german scoring system
